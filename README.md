@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/fatimahmeraj_" target="blank"><img src="https://img.shields.io/twitter/follow/fatimahmeraj_?logo=twitter&style=for-the-badge" alt="fatimahmeraj_" /></a> </p>
 
-- 🌱 I’m currently learning **🌱 I’m currently learning Learning MERN stack | Scholar Class of C24 - Code For India Foundation**
+- 🌱 I’m currently learning Learning MERN stack | Scholar Class of C24 - Code For India Foundation**
 
 - 📝 I regularly write articles on [https://medium.com/@merajfaate](https://medium.com/@merajfaate)
 
