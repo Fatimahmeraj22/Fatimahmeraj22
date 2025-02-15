@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff4500">Hi 👋, I'm <span style="color:#1e90ff">Meraj Fatima</span></h1>
+<h1 align="center" style="color:#ff4500">Hey There!👋🏻, I'm <span style="color:#1e90ff">Meraj Fatima</span></h1>
 <h3 align="center" style="color:#ff6347">Scholar at Code For India Foundation | Aspiring Full Stack Web Developer</h3>
 
 <!-- Profile views counter -->
