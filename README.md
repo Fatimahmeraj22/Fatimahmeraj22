@@ -1,58 +1,58 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#3498db">Meraj Fatima</span></h1>
-<h3 align="center">Scholar at Code For India Foundation | Aspiring Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#ff6347">Meraj Fatima</span></h1>
+<h3 align="center" style="color: #ff1493">Scholar at Code For India Foundation | Aspiring Full Stack Web Developer</h3>
 
 <!-- Profile views counter -->
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=fatimahmeraj22&label=Profile%20views&color=0e75b6&style=flat" alt="fatimahmeraj22" /> 
+    <img src="https://komarev.com/ghpvc/?username=fatimahmeraj22&label=Profile%20views&color=32cd32&style=flat" alt="fatimahmeraj22" /> 
 </p>
 
 <!-- GitHub profile trophy -->
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=fatimahmeraj22&theme=flat&no-frame=true&column=4" alt="fatimahmeraj22" />
+        <img src="https://github-profile-trophy.vercel.app/?username=fatimahmeraj22&theme=juicyfresh&no-frame=true&column=4" alt="fatimahmeraj22" />
     </a> 
 </p>
 
 <!-- Social Media Badge -->
 <p align="left"> 
     <a href="https://twitter.com/fatimahmeraj_" target="blank">
-        <img src="https://img.shields.io/twitter/follow/fatimahmeraj_?logo=twitter&style=for-the-badge" alt="fatimahmeraj_" />
+        <img src="https://img.shields.io/twitter/follow/fatimahmeraj_?logo=twitter&style=for-the-badge&color=1da1f2" alt="fatimahmeraj_" />
     </a> 
 </p>
 
 <p align="center">
   <a href="https://medium.com/@merajfaate">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-@merajfaate-0f0d00?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-@merajfaate-ff6347?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/meraj-fatima-3642b4305" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Meraj_Fatima-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Meraj_Fatima-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-### 🌱 I’m currently learning **MERN Stack**  
-📫 How to reach me: **merajfaate@gmail.com**
+### 🌱 I’m currently learning <span style="color:#32cd32">**MERN Stack**</span>  
+📫 How to reach me: <span style="color:#ff6347">**merajfaate@gmail.com**</span>
 
 ---
 
 #### 🚀 Skills & Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
   </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
   </a>
 </p>
 
@@ -60,13 +60,13 @@
 
 ### 💻 GitHub Stats:
 <!-- Stats for most languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimahmeraj22&show_icons=true&locale=en&layout=compact&hide=css&theme=radical" alt="fatimahmeraj22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimahmeraj22&show_icons=true&locale=en&layout=compact&hide=css&theme=midnight-purple" alt="fatimahmeraj22" /></p>
 
 <!-- Stats for user -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimahmeraj22&show_icons=true&locale=en&theme=radical" alt="fatimahmeraj22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimahmeraj22&show_icons=true&locale=en&theme=midnight-purple" alt="fatimahmeraj22" /></p>
 
 <!-- Streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimahmeraj22&theme=radical" alt="fatimahmeraj22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimahmeraj22&theme=midnight-purple" alt="fatimahmeraj22" /></p>
 
 ---
 
@@ -103,4 +103,3 @@ I can code for hours without realizing it, but if you give me a camera, I’ll g
 </p>
 
 ---
-
