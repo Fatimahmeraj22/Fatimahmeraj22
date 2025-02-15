@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#ff6347">Meraj Fatima</span></h1>
-<h3 align="center" style="color: #ff1493">Scholar at Code For India Foundation | Aspiring Full Stack Web Developer</h3>
+<h1 align="center" style="color:#ff4500">Hi 👋, I'm <span style="color:#1e90ff">Meraj Fatima</span></h1>
+<h3 align="center" style="color:#ff6347">Scholar at Code For India Foundation | Aspiring Full Stack Web Developer</h3>
 
 <!-- Profile views counter -->
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=fatimahmeraj22&label=Profile%20views&color=32cd32&style=flat" alt="fatimahmeraj22" /> 
+    <img src="https://komarev.com/ghpvc/?username=fatimahmeraj22&label=Profile%20views&color=8a2be2&style=flat" alt="fatimahmeraj22" /> 
 </p>
 
 <!-- GitHub profile trophy -->
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=fatimahmeraj22&theme=juicyfresh&no-frame=true&column=4" alt="fatimahmeraj22" />
+        <img src="https://github-profile-trophy.vercel.app/?username=fatimahmeraj22&theme=gruvbox&no-frame=true&column=4" alt="fatimahmeraj22" />
     </a> 
 </p>
 
@@ -22,37 +22,37 @@
 
 <p align="center">
   <a href="https://medium.com/@merajfaate">
-    <img alt="Medium" src="https://img.shields.io/badge/Medium-@merajfaate-ff6347?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img alt="Medium" src="https://img.shields.io/badge/Medium-@merajfaate-8a2be2?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/meraj-fatima-3642b4305" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Meraj_Fatima-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
-### 🌱 I’m currently learning <span style="color:#32cd32">**MERN Stack**</span>  
-📫 How to reach me: <span style="color:#ff6347">**merajfaate@gmail.com**</span>
+### 🌱 I’m currently learning <span style="color:#98fb98">**MERN Stack**</span>  
+📫 How to reach me: <span style="color:#ff4500">**merajfaate@gmail.com**</span>
 
 ---
 
 #### 🚀 Skills & Tools:
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="border-radius: 8px; box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border-radius: 8px; box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border-radius: 8px; box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://reactjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border-radius: 8px; box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="border-radius: 8px; box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="border-radius: 8px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="border-radius: 8px; box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.2);" />
   </a>
 </p>
 
@@ -60,18 +60,18 @@
 
 ### 💻 GitHub Stats:
 <!-- Stats for most languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimahmeraj22&show_icons=true&locale=en&layout=compact&hide=css&theme=midnight-purple" alt="fatimahmeraj22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimahmeraj22&show_icons=true&locale=en&layout=compact&hide=css&theme=tokyonight" alt="fatimahmeraj22" /></p>
 
 <!-- Stats for user -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimahmeraj22&show_icons=true&locale=en&theme=midnight-purple" alt="fatimahmeraj22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimahmeraj22&show_icons=true&locale=en&theme=tokyonight" alt="fatimahmeraj22" /></p>
 
 <!-- Streak stats -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimahmeraj22&theme=midnight-purple" alt="fatimahmeraj22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimahmeraj22&theme=tokyonight" alt="fatimahmeraj22" /></p>
 
 ---
 
 ### 💬 Quote of the day:
-> "The only way to do great work is to love what you do".
+> "The only way to do great work is to love what you do."
 
 ---
 
