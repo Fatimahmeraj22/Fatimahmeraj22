@@ -106,11 +106,6 @@
 
 ---
 
-### ⚡ Fun fact:
-I can code for hours without realizing it, but if you give me a camera, I’ll get lost in capturing the perfect shot for just as long! 👩‍💻✨
-
----
-
 ### 📢 Reach Out to Me:
 <p align="left">
   <a href="https://twitter.com/fatimahmeraj_" target="blank">
